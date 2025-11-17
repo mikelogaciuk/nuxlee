@@ -1,8 +1,14 @@
-# Personal Blog
+# Nuxlee - Minimalistic Nuxt.js 4 Blog Starter Kit
+
+![Logo](./public/nuxlee.png)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## About
 
-Minimalistic Starter Kit.
+Minimalistic Starter Kit, being a some sort of fork & stripped down version of my [personal blog](https://mikelogaciuk.github.io/), built with **Nuxt.js 4** and **Tailwind CSS**.
+
+The original repo can be found [here](https://github.com/mikelogaciuk/mikelogaciuk.github.io).
 
 ## 🚀 Modules used
 
@@ -20,7 +26,7 @@ Additionally, it uses the following packages:
 - [tailwindcss](https://tailwindcss.com/) - for styling
 - [prettier](https://prettier.io/) - for code formatting
 
-It also has enabled markdown highlighting with [shiki](https://shiki.matsu.io/) for languages like `js`, `ts`, `vue`, `html`, and `css`, `ruby`, `python`, `elixir` and others.
+The markdown highlighting is enabled using [shiki](https://shiki.matsu.io/) for languages like `js`, `ts`, `vue`, `html`, and `css`, `ruby`, `python`, `elixir` and others.
 
 The config can be found in `nuxt.config.ts` and `content.config.ts`.
 
